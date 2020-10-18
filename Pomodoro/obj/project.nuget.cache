@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iFlz16n7lTvVq74w+lIFenLgC++oGjQFiyMZnZbpnuVTiQY6+8iBvNzAWlJqVTRidcdK0KpCCmWGEpl1LZF1FA==",
+  "dgSpecHash": "sqXNWXwiQZHt5uN8XCrXD43hQFYGcOmoADwO2W6EBpzD83QtGFKQMpb62PiNPwudY87wIVGtIQqFxncWVDoCpQ==",
   "success": true,
-  "projectFilePath": "C:\\Work\\Pomodoro\\Pomodoro\\Pomodoro.csproj",
+  "projectFilePath": "C:\\Work\\projects\\Pomodoro\\Pomodoro\\Pomodoro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shapovalenko\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\shapovalenko\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

@@ -1642,11 +1642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\Pomodoro\\Pomodoro\\Pomodoro.csproj",
+      "projectUniqueName": "C:\\Work\\projects\\Pomodoro\\Pomodoro\\Pomodoro.csproj",
       "projectName": "Pomodoro",
-      "projectPath": "C:\\Work\\Pomodoro\\Pomodoro\\Pomodoro.csproj",
+      "projectPath": "C:\\Work\\projects\\Pomodoro\\Pomodoro\\Pomodoro.csproj",
       "packagesPath": "C:\\Users\\shapovalenko\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\Pomodoro\\Pomodoro\\obj\\",
+      "outputPath": "C:\\Work\\projects\\Pomodoro\\Pomodoro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shapovalenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
