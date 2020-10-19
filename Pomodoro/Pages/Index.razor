@@ -1,22 +1,51 @@
 ﻿@page "/"
+@using Pomodoro.Classes
+@inject IJSRuntime JsRuntime
 
     <div class="row justify-content-center align-items-center h-100">
         <div class="jumbotron col-4 px-4">
             <div class="container-fluid">
                 <div class="row timer justify-content-center">
-                    <div class="minutes">25</div>
+                    <div class="minutes">@_currentPomodoro.MinutesToGo.ToString("00")</div>
                     <div class="colon">:</div>
-                    <div class="seconds">00</div>
+                    <div class="seconds">@_currentPomodoro.SecondsToGo.ToString("00")</div>
                 </div>
                 <div class="row timer intermission">
                     <div class="col-6">Следующий перерыв</div>
-                    <div class="col-3"><strong>5</strong> минут</div>
+                    <div class="col-3"><strong>@_currentPomodoro.Intermission</strong> минут</div>
                 </div>
                 <div class="row justify-content-around">
-                    <button class="btn btn-lg btn-success">Запуск</button>
-                    <button class="btn btn-lg btn-danger">Стоп</button>
+                    <button class="btn btn-lg btn-success" @onclick="e => StartPomodoros()">Запуск</button>
+                    <button class="btn btn-lg btn-danger" @onclick="e => StopPomodoros()">Стоп</button>
                 </div>
             </div>
         </div>
     </div>
-    @*<audio id="alarm-notify" src="alarm.mp3"></audio>*@
+    <audio id="alarm-notify">
+        <source src="js/sound/alarm.mp3" type="audio/mp3">
+    </audio>
+@functions
+{
+    private PomodoroCycle _cycle = new PomodoroCycle();
+    public PomodoroUnit _currentPomodoro => _cycle.CurrentPomodoroUnit;
+
+    public void WorkAlert()
+    {
+        ((IJSInProcessRuntime)JsRuntime).Invoke<object>("WorkAlert");
+    }
+
+    public void RestAlert()
+    {
+        ((IJSInProcessRuntime)JsRuntime).Invoke<object>("RestAlert");
+    }
+
+    public void StartPomodoros()
+    {
+        _cycle.StartPomodoroCycle(() => StateHasChanged(), () => WorkAlert(), () => RestAlert());
+    }
+
+    public void StopPomodoros()
+    {
+        _cycle.StopPomodoroCycle();
+    }
+}

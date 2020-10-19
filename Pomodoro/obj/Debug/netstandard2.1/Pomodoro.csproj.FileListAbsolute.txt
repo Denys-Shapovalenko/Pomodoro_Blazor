@@ -517,7 +517,6 @@ C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\Razor\_Imports.razor
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\Pomodoro.RazorTargetAssemblyInfo.cache
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\Pomodoro.csproj.CopyComplete
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\VsNSEdCKsHefFwWftPwlRRqaPPUSSSTVTEWe8u3IDWQ=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
@@ -568,13 +567,11 @@ C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\bSgsT2x5xM
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
-C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\AeYFXRH_2Q8Qt6M6BotxYKoRoecQnvkacK-wxBUFMXQ=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\fAMPSALj-YThOXFDLxGBZ6UqBpj0jrjCd7K8ket44h4=.hash
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\compressed\_framework\_bin\Pomodoro.dll.gz
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
@@ -693,3 +690,7 @@ C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\staticwebassets\Pomo
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\staticwebassets\Pomodoro.StaticWebAssets.xml
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\Pomodoro.dll
 C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\Pomodoro.pdb
+C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\Pomodoro.csprojAssemblyReference.cache
+C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\M6z9v7ER-zI_RJs75fq2XYmBpcKVEkoUCoc10K2-nMk=.hash
+C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\WdNLDAQoscchIIeAnCfHkl4XJQEtAz4rduY2tF3Rr4c=.hash
+C:\Work\projects\Pomodoro\Pomodoro\obj\Debug\netstandard2.1\integrity\pIKrFuKERz_9LXiKojwrjTPk0A20d9sUyvxDfGLu9As=.hash
